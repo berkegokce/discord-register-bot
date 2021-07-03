@@ -1,0 +1,34 @@
+{
+  "bot": {
+    "prefix": ".",
+    "admin": "638371960249909249",
+    "token": "ODAwMTc0NTAxMjg3NTU5MTg4.YAOSkw.1E0B_UdJEONyx2UAUmrSMm3QuO8"
+  },
+
+  "renk": {
+    "hata": "",
+    "basarili": ""
+  },
+
+  "settings": {
+    "tag": "Tag",
+
+    "server": "797922678563536896",
+
+    "kayitlog": "809834843353120800",
+    "botseskanal": "BotVoiceChannelsID",
+    "kayitkanal": "809834843353120800",
+    "ruleskanal": "809834843353120800",
+
+    "tagROL": "TaggesRolesID",
+    "kayitci": "801540776688877670",
+    "fullROL": "801540776688877670",
+    "kayitsizROL": "801952953644613662",
+
+    "kizROL": "801949268554416139",
+    "erkekROL": "802310731432198216",
+    "karantinaROL": "",
+
+    "status": ["31"]
+  }
+}
